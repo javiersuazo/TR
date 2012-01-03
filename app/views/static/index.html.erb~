@@ -1,8 +1,8 @@
 <div id="controls">
      <form onsubmit="start();return false" action="#">
       Ingrese la direccion de inicio y destino...<br />
-      <input type="text" size="80" maxlength="200" id="startpoint" value="Desde..." /><br />
-      <input type="text" size="80" maxlength="200" id="endpoint" value="Hasta..." /><br />
+      <input type="text" size="80" maxlength="200" id="startpoint" value="Colonia Tres Caminos, Tegucigalpa, Honduras" /><br />
+      <input type="text" size="80" maxlength="200" id="endpoint" value="Mall Plaza Miraflores, Tegucigalpa, Honduras" /><br />
       <br/><input id = "boton" type="submit" value="Start"  />
      </form>
       
